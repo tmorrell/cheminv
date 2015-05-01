@@ -76,7 +76,7 @@
 
 		$ordername        =       $executesql['name'];
 
-                mail("ilonar@princeton.edu","New Order Requested in the Haw Yang Lab Inventory System","$ordername has been requested in the inventory system.");
+                mail("order@email","New Order Requested in the Chemical Inventory System","$ordername has been requested in the inventory system.");
 
 		header("location: " . $_SERVER['REQUEST_URI']);
 	}

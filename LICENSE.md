@@ -1,9 +1,12 @@
 ﻿LICENSE
 ====
 
--  ecDB is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
--  The ecDB code is not allowed for public use other than on [www.ecDB.net](http://www.ecdb.net). 
--  You are allowed to set up a private ecDB database for yourself, or whithin an organisation.
+-  cheminv is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+-  You are allowed to set up a private cheminv database for yourself, or whithin an organisation.
+
+- cheminv is derived from edDB, which was also licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+-  The ecDB code is not allowed for public use other than on  [www.ecDB.net](http://www.ecdb.net).
+
 
 ## License
 

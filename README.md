@@ -21,8 +21,12 @@ Cheminv is based on ecDB [www.ecDB.net](http://www.ecdb.net), which was created 
 - Create a MySQL database. (mysql -p -e create database cheminv)
 - Import `cheminv.sql` database structure to your MySQL-database. (mysql -p cheminv < cheminv.sql)
 - Make sure you can access the database (mysql -p grant alter,create,delete,drop,insert,update,select,index ON cheminv.* TO 'cheminvuser'@'localhost' IDENTIFIED BY 'password';) 
-- Insert your MySQL data in the configuration file, `include/mysql_connect.php`.
+- Insert your MySQL data in the configuration files, `include/mysql_connect.php` and 'include/login/config.php'.
 - **You are now set to go!** The default username and password should automatically be entered.
+
+- You'll want to edit locations to match your lab setup.  The easiest way in to
+  install mysql-workbench and edit table data.  Select cheminv and the
+category_head or category_sub tables
 
 ### Requirements
 
@@ -96,7 +100,10 @@ release.
 ## License
 
 -  cheminv is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
--  The cheminv code is not allowed for public use, other than on [www.ecDB.net](http://www.ecdb.net). 
 -  You are allowed to set up a private cheminv database for yourself, or whithin an organisation.
+
+- cheminv is derived from edDB, which was also licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+-  The ecDB code is not allowed for public use other than on  [www.ecDB.net](http://www.ecdb.net).
+
 
 ###### Parts of this readme originates from [CodeIgniter](https://github.com/EllisLab/CodeIgniter)

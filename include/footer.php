@@ -1,6 +1,6 @@
 <div id="copyText">
     <div class="leftBox">
-        <div> Initial design as ecDB by <a href="http://nilsf.se">Nils Fredriksson</a>  - Modified by Tom Morrell for the Haw Yang Lab</div>
+        <div> Cheminv develeoped by <a href="http://github.com/tmorrell/cheminv">Tom Morrell</a> in the Haw Yang Lab at Princeton University. Derived from <a href="http://nilsf.se">Nils Fredriksson's</a> ecDB </div>
         <div class="stats">
             <?php include_once('include/mysql_connect.php'); ?>
 

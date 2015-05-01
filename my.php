@@ -17,7 +17,7 @@
 		<meta name="keywords" content="electronics, components, database, project, inventory"/> 
 		<link rel="shortcut icon" href="favicon.ico" />
 		<link rel="apple-touch-icon" href="img/apple.png" />
-		<title>Home - ecDB</title>
+		<title>Home - Cheminv</title>
 		<?php include_once("include/analytics.php") ?>
 		
 	</head>
