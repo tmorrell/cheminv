@@ -3,9 +3,19 @@
 
 ## What is cheminv
 
-Cheminv is a web-based chemical inventory system.  This responsive database provides an accessable way to organize and order chemicals, and is provided as an open-source package for all non-commercial users.  
+Cheminv is a web-based chemical inventory system.  This responsive database provides an accessable way to organize and order chemicals, and is provided as an open-source package for all non-commercial users.
+
+Cheminv organizes chemicals by their location in a lab. Locations are included in a MySQL database, and the home page provides the ability to sort chemicals by location. You can also search the database by terms such as chemical name or CAS number. The home page provides links to add new chemicals to the database, a shopping list that contains chemicals that have been requested, and a project based listing of chemicals that are in use. You can also export the entire database as a cvs file, and view chemicals that have been used in the past (Archived Chemicals).
 
 ![Overall](img/about/Overview.png)
+
+Each chemical has a page with pertinent information, such as the quantity, manufacturer, CAS number, amount, dates, bar codes, and much more. On the item page users can also indicate that more of a chemical is required, which automatically adds the chemical to a list to be ordered.
+
+![Detail](img/about/chemical.png)
+
+The page for adding new chemicals includes fields for all the options above.
+
+![Add](img/about/add_chemical.png)
 
 ## Who and Why
 
