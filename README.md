@@ -5,7 +5,7 @@
 
 Cheminv is a web-based chemical inventory system.  This responsive database provides an accessable way to organize and order chemicals, and is provided as an open-source package for all non-commercial users.  
 
-![Overall](http://www.aminodesigns.com/images/overview_s.png)
+![Overall](img/about/Overview.png)
 
 ## Who and Why
 
