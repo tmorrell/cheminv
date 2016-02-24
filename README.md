@@ -5,7 +5,7 @@
 
 Cheminv is a web-based chemical inventory system.  This responsive database provides an accessable way to organize and order chemicals, and is provided as an open-source package for all non-commercial users.
 
-Cheminv organizes chemicals by their location in a lab. Locations are included in a MySQL database, and the home page provides the ability to sort chemicals by location. You can also search the database by terms such as chemical name or CAS number. The home page provides links to add new chemicals to the database, a shopping list that contains chemicals that have been requested, and a project based listing of chemicals that are in use. You can also export the entire database as a cvs file, and view chemicals that have been used in the past (Archived Chemicals).
+Cheminv organizes chemicals by their location in a lab. Locations are included in a MySQL database, and the home page provides the ability to sort chemicals by location. You can also search the database by terms such as chemical name or CAS number. The home page provides links to add new chemicals to the database, a shopping list that contains chemicals that have been requested, and a project based listing of chemicals that are in use. You can also export the entire database as a csv file, and view chemicals that have been used in the past (Archived Chemicals).
 
 ![Overall](img/about/Overview.png)
 
@@ -112,9 +112,9 @@ release.
 ## License
 
 -  cheminv is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
--  You are allowed to set up a private cheminv database for yourself, or whithin an organisation.
+-  You are allowed to set up a private cheminv database for yourself, or within an organization.
 
-- cheminv is derived from edDB, which was also licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+- cheminv is derived from edDB, which is also licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 -  The ecDB code is not allowed for public use other than on  [www.ecDB.net](http://www.ecdb.net).
 
 
