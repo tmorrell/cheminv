@@ -68,7 +68,7 @@ at the same time, we might really want X but disagree with Y, meaning we
 cannot merge the request. Using the Git-Flow branching model you can create
 new branches for both of these features and send two requests.
 
-## How-to Guide
+### Submitting a change
 
 There are two ways to make changes, the easy way and the hard way. Either way
 you will need to [create a GitHub account](https://github.com/signup/free).
