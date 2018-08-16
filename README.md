@@ -23,9 +23,11 @@ Cheminv was created by Thomas Morrell for the Haw Yang Lab at Princeton Universi
 
 Cheminv is based on ecDB [www.ecDB.net](http://www.ecdb.net), which was created by [Nils Fredriksson](http://nilsf.se) aka. ElectricMan and designed by [Buildlog](http://buildlog.se). 
 
-## Contact and Discussion
+### Requirements
 
-* Website: [https://github.com/tmorrell/cheminv](https://github.com/tmorrell/cheminv)
+-  Web Server.
+-  PHP Version 5.2.4 or above.
+-  MySQL Version 5.0 - 5.6 (not tested on other versions).
 
 ## Installation
 
@@ -39,12 +41,6 @@ Cheminv is based on ecDB [www.ecDB.net](http://www.ecdb.net), which was created 
 - You'll want to edit locations to match your lab setup.  The easiest way in to
   install mysql-workbench and edit table data.  Select cheminv and the
 category_head or category_sub tables
-
-### Requirements
-
--  Web Server.
--  PHP Version 5.2.4 or above.
--  MySQL Version 5.0 or above.
 
 ## Contributing
 
@@ -99,15 +95,7 @@ means "making a copy of that repo to your account" and "cloning" means
 -  Push your develop branch to your fork
 -  Send a pull request http://help.github.com/send-pull-requests/
 
-The Reactor Engineers will now be alerted about the change and at least one of
-the team will respond. If your change fails to meet the guidelines it will be
-bounced, or feedback will be provided to help you improve it.
-
-Once the Reactor Engineer handling your pull request is happy with it they
-will post it to the internal ecDB discussion area to be double checked by
-the other Engineers and ecDB developers. If nobody has a problem with the
-change then it will be merged into develop and will be part of the next
-release.
+If your PR is helpful it will be merged into this repo.
 
 ## License
 
